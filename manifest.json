@@ -1,6 +1,6 @@
 {
-  "name": "わたしの運営しているサービスのなまえ",
-  "short_name": "わたサー",
+  "name": "Push通知テスト",
+  "short_name": "Push",
   "lang": "ja",
   "display": "standalone",
   "start_url": "/"
