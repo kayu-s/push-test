@@ -1,0 +1,7 @@
+{
+  "name": "わたしの運営しているサービスのなまえ",
+  "short_name": "わたサー",
+  "lang": "ja",
+  "display": "standalone",
+  "start_url": "/"
+}
